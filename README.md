@@ -10,6 +10,7 @@
 <br>
 This is simply a parody site I think is funny
 
+----
 
 # ❤️ Support me
 
